@@ -1,0 +1,1 @@
+mysql -h beagleapp.c9butwi2b2ux.sa-east-1.rds.amazonaws.com beagleapp -u ibadmin -pIbrasil2015
